@@ -3,14 +3,14 @@ A detailed syllabus of computer science. Computer science and Engineering degree
 
 
 # Table of Contents
-- ### [Cryptography](#cryptography)
-- ### [Web Development](h#web-development)
-- ### [Artificial Intelligence](#)
-- ### [Computer Graphics](#)
+- ### [Cryptography](https://github.com/apeman/awesome_computer_science-2/blob/main/README.md#cryptography-1)
+- ### [Web Development](https://github.com/apeman/awesome_computer_science-2/blob/main/README.md#web-development-1)
+- ### [Artificial Intelligence](https://github.com/apeman/awesome_computer_science-2/blob/main/README.md#artificial-intelligence-1)
+- ### [Computer Graphics](https://github.com/apeman/awesome_computer_science-2/blob/main/README.md#computer-graphics-1)
 
 //misc applications of everything you learned
-- ### [Game Development](#)
-- ### [Data Science](#)
+- ### [Game Development](https://github.com/apeman/awesome_computer_science-2/blob/main/README.md#game-development-1)
+- ### [Data Science](https://github.com/apeman/awesome_computer_science-2/blob/main/README.md#data-science-and-machine-learning)
 - ### [Image Processing](#)
 
 
