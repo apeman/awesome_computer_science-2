@@ -14,7 +14,7 @@ A detailed syllabus of computer science. Computer science and Engineering degree
 - ### [Image Processing](#)
 
 
-## Cryptography
+## Cryptography and Network Security
 
 - [ ] **Encryption Algorithms**
     - DES, AES, Whirlpool, One Time Pad
@@ -24,8 +24,20 @@ A detailed syllabus of computer science. Computer science and Engineering degree
     - RSA, Kerberos
 - [ ] **Digital Signatures**
     - Message Digest    
- - [ ] **Compression**
+- [ ] **Compression**
     - [History](https://www.hanshq.net/zip.html#huffman).
+- [ ] **Firewall**
+- [ ] **Security Models**
+    - Bell La'Padula
+    - Access Controls
+- [ ] **Circumventions**
+    - Proxy, VPN, Tunneling
+    - SSL, TLS
+- [ ] **Awareness**
+    - Phishing, Pharming, Social Engineering
+    - DDOS, Man-in-the-Middle Attack
+    - Biometrics, Passwords
+
     
 ## Web Development
 > You can study Web Development from [Mozilla Developer Network Website](https://developer.mozilla.org/en-US/docs/Web/Tutorials).
