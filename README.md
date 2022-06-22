@@ -117,3 +117,12 @@ A detailed syllabus of computer science. Computer science and Engineering degree
 - [ ] **[Image Processing](https://homepages.inf.ed.ac.uk/rbf/HIPR2/wksheets.htm)**<sup>Worth learning</sup>
     - [Transformation](http://www.it.hiof.no/~borres/j3d/math/twod/p-twod.html) and [Translation](https://homepages.inf.ed.ac.uk/rbf/HIPR2/translte.htm)
     
+
+---------
+
+## Good to know tools
+
+### UNIX utilities
+- Sed, Awk, Grep
+- Git, Versioning
+- CURL
